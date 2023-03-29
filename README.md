@@ -1,2 +1,2 @@
 # kltn-app
-[Link to the final app](bit.ly/waw-website)
+[Link to the final app](https://bit.ly/waw-website)
